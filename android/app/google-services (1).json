@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15006895431",
+    "project_id": "flexudata2",
+    "storage_bucket": "flexudata2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15006895431:android:79ac1f7521f1d05dcb1062",
+        "android_client_info": {
+          "package_name": "com.reactnative_template"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhceCV_1M72i6Ug2JoYaeBFz7OXqabROc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
